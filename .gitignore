@@ -1,6 +1,8 @@
-.gradle
-**/build/
-!src/**/build/
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -14,17 +16,33 @@ gradle-app.setting
 # Cache of project
 .gradletasknamecache
 
-# Eclipse Gradle plugin generated files
-# Eclipse Core
-.project
-# JDT-specific (Eclipse Java Development Tools)
+### Eclipse ###
+.apt_generated
 .classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
 
-# Ignore IntelliJ IDEA folder
-.idea
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+**/build/
+!src/**/build/
 
-# Ignore application.properties file
-application.properties
-target
+### VS Code ###
+.vscode/
 
+### Mac OS ###
 .DS_Store
+
+### My list ###
+hibernate.cfg.xml
+application.properties
+logback-spring.xml
+node_modules/
+target
