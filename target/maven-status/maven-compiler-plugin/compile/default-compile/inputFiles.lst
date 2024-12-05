@@ -1,0 +1,12 @@
+/Users/macygabr/Projects/macygabr.github.io/src/main/java/com/example/demo/service/authentication/AuthenticationService.java
+/Users/macygabr/Projects/macygabr.github.io/src/main/java/com/example/demo/service/kafka/KafkaProducerService.java
+/Users/macygabr/Projects/macygabr.github.io/src/main/java/com/example/demo/config/GlobalExceptionHandler.java
+/Users/macygabr/Projects/macygabr.github.io/src/main/java/com/example/demo/config/KafkaConsumerConfig.java
+/Users/macygabr/Projects/macygabr.github.io/src/main/java/com/example/demo/controller/AuthController.java
+/Users/macygabr/Projects/macygabr.github.io/src/main/java/com/example/demo/models/SignInRequest.java
+/Users/macygabr/Projects/macygabr.github.io/src/main/java/com/example/demo/config/KafkaProducerConfig.java
+/Users/macygabr/Projects/macygabr.github.io/src/main/java/com/example/demo/models/SignUpRequest.java
+/Users/macygabr/Projects/macygabr.github.io/src/main/java/com/example/demo/config/SecurityConfig.java
+/Users/macygabr/Projects/macygabr.github.io/src/main/java/com/example/demo/service/kafka/KafkaConsumerService.java
+/Users/macygabr/Projects/macygabr.github.io/src/main/java/com/example/demo/ApiGateWayApplication.java
+/Users/macygabr/Projects/macygabr.github.io/src/main/java/com/example/demo/config/WebConfig.java
