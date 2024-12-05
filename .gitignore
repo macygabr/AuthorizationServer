@@ -19,3 +19,9 @@ gradle-app.setting
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+# Ignore IntelliJ IDEA folder
+.idea
+
+# Ignore application.properties file
+application.properties
