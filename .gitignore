@@ -25,5 +25,6 @@ gradle-app.setting
 
 # Ignore application.properties file
 application.properties
+target
 
 .DS_Store
